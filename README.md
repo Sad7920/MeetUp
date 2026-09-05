@@ -1,5 +1,5 @@
 
-# MeetUp - Instant Video Calling App
+# MeetUp- Instant Video Calling App
 
 MeetUp is a real-time video calling app that allows users to connect instantly without the need for sign-ups or downloads. It provides a seamless and secure experience for users to either join existing rooms or create new ones with a unique room ID. The application uses WebRTC for peer-to-peer communication, leveraging technologies like Socket.io, Peer.js, and React-player for smooth media streaming.
 
